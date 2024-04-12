@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-21T05:43:06.014Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="f2uvW80AXqonrqtKRD3r" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-12T04:08:09.765Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="7W4n6ZxnHcbvY_xJn_CY" version="24.2.3" type="github">
   <diagram name="第 1 页" id="uIp9_sblfixBUAIgZwkg">
-    <mxGraphModel dx="1621" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1225" dy="214" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -223,11 +223,11 @@
         <mxCell id="2YJbEfZzeCw0bkBX_K2v-41" value="区块链" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=宋体;fontStyle=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="405" y="903" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2YJbEfZzeCw0bkBX_K2v-42" value="数据使用者" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=宋体;fontStyle=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="475" y="903" width="90" height="30" as="geometry" />
+        <mxCell id="2YJbEfZzeCw0bkBX_K2v-42" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;$$DU$$&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=宋体;fontStyle=1;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="485" y="903" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2YJbEfZzeCw0bkBX_K2v-43" value="数据拥有者" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=宋体;fontStyle=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="555" y="903" width="90" height="30" as="geometry" />
+        <mxCell id="2YJbEfZzeCw0bkBX_K2v-43" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;$$DO$$&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=宋体;fontStyle=1;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="565" y="903" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2YJbEfZzeCw0bkBX_K2v-48" value="AK&lt;sub style=&quot;font-size: 16px;&quot;&gt;1&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Times New Roman;fontStyle=3;fontColor=#6c8ebf;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="215" y="540" width="50" height="40" as="geometry" />
