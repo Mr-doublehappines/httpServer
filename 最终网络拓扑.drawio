@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-20T13:59:37.684Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="ckYtvatUqJMGK9hGQTQI" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-20T23:47:55.906Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="KsdzbkPWYgCD61_qCJkk" version="24.2.7" type="github">
   <diagram name="第 1 页" id="GE0wQYHp8Ooc9d-nAeuC">
-    <mxGraphModel dx="2022" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="1" shadow="0">
+    <mxGraphModel dx="1861" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -380,16 +380,16 @@
         <mxCell id="rd_ei534t_LT1YdkBaFd-19" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/app_services/App_Service_Certificates.svg;strokeColor=#b85450;verticalAlign=middle;fontFamily=宋体;fontColor=default;fillColor=#f8cecc;" parent="1" vertex="1">
           <mxGeometry x="168" y="450" width="30" height="27.44" as="geometry" />
         </mxCell>
-        <mxCell id="TcHsQoMDjowBJd2l_ly3-1" value="$$AA_k$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="TcHsQoMDjowBJd2l_ly3-1" value="$$AA_k$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="210" y="430" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TcHsQoMDjowBJd2l_ly3-2" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: 宋体; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;$$AA_j$$&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TcHsQoMDjowBJd2l_ly3-2" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: 宋体; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;$$AA_j$$&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="560.5" y="920.19" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TcHsQoMDjowBJd2l_ly3-4" value="SDK" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="TcHsQoMDjowBJd2l_ly3-4" value="SDK" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="166.75" y="666.71" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TcHsQoMDjowBJd2l_ly3-5" value="SDK" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="TcHsQoMDjowBJd2l_ly3-5" value="SDK" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="666" y="665.19" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
