@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-20T09:43:17.966Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="-g3QqwAVRxd4HmSR-LZ7" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-20T09:44:12.527Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="qz3Ru3wducbI4y44Gm_j" version="24.2.5" type="github">
   <diagram name="第 1 页" id="GE0wQYHp8Ooc9d-nAeuC">
     <mxGraphModel dx="2022" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="1" shadow="0">
       <root>
@@ -34,7 +34,7 @@
             <mxPoint x="-69.87992329817808" y="639.81" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BGBXXSMoJgdAzNNkScHR-113" value="&lt;div&gt;学校&lt;/div&gt;&lt;div&gt;节点&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=12;fillColor=#d5e8d4;" parent="1" vertex="1">
+        <mxCell id="BGBXXSMoJgdAzNNkScHR-113" value="&lt;div&gt;机构&lt;/div&gt;&lt;div&gt;节点&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=12;fillColor=#d5e8d4;" parent="1" vertex="1">
           <mxGeometry x="204.5" y="731.9999999999999" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="BGBXXSMoJgdAzNNkScHR-142" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;共识服务&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=宋体;fontSize=12;fontColor=default;" parent="1" vertex="1">
@@ -46,25 +46,25 @@
         <mxCell id="BGBXXSMoJgdAzNNkScHR-166" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Database_General.svg;strokeColor=#b85450;verticalAlign=middle;fontFamily=宋体;fontColor=default;fillColor=#f8cecc;" parent="1" vertex="1">
           <mxGeometry x="247" y="751.37" width="21" height="27.63" as="geometry" />
         </mxCell>
-        <mxCell id="BGBXXSMoJgdAzNNkScHR-169" value="&lt;div&gt;学校&lt;/div&gt;&lt;div&gt;节点&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=12;fillColor=#d5e8d4;" parent="1" vertex="1">
+        <mxCell id="BGBXXSMoJgdAzNNkScHR-169" value="&lt;div&gt;机构&lt;/div&gt;&lt;div&gt;节点&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=12;fillColor=#d5e8d4;" parent="1" vertex="1">
           <mxGeometry x="284.5" y="779.1899999999998" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="BGBXXSMoJgdAzNNkScHR-170" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Database_General.svg;strokeColor=#b85450;verticalAlign=middle;fontFamily=宋体;fontColor=default;fillColor=#f8cecc;" parent="1" vertex="1">
           <mxGeometry x="327" y="802.56" width="21" height="27.63" as="geometry" />
         </mxCell>
-        <mxCell id="BGBXXSMoJgdAzNNkScHR-171" value="&lt;div&gt;学校&lt;/div&gt;&lt;div&gt;节点&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=12;fillColor=#d5e8d4;" parent="1" vertex="1">
+        <mxCell id="BGBXXSMoJgdAzNNkScHR-171" value="&lt;div&gt;机构&lt;/div&gt;&lt;div&gt;节点&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=12;fillColor=#d5e8d4;" parent="1" vertex="1">
           <mxGeometry x="284.5" y="534.9999999999999" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="BGBXXSMoJgdAzNNkScHR-172" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Database_General.svg;strokeColor=#b85450;verticalAlign=middle;fontFamily=宋体;fontColor=default;fillColor=#f8cecc;" parent="1" vertex="1">
           <mxGeometry x="327.5" y="559.87" width="21" height="27.63" as="geometry" />
         </mxCell>
-        <mxCell id="BGBXXSMoJgdAzNNkScHR-173" value="&lt;div&gt;学校&lt;/div&gt;&lt;div&gt;节点&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=12;fillColor=#d5e8d4;" parent="1" vertex="1">
+        <mxCell id="BGBXXSMoJgdAzNNkScHR-173" value="&lt;div&gt;机构&lt;/div&gt;&lt;div&gt;节点&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=12;fillColor=#d5e8d4;" parent="1" vertex="1">
           <mxGeometry x="540.5" y="731.9999999999999" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="BGBXXSMoJgdAzNNkScHR-174" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Database_General.svg;strokeColor=#b85450;verticalAlign=middle;fontFamily=宋体;fontColor=default;fillColor=#f8cecc;" parent="1" vertex="1">
           <mxGeometry x="586" y="759.87" width="21" height="27.63" as="geometry" />
         </mxCell>
-        <mxCell id="BGBXXSMoJgdAzNNkScHR-175" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;学校&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;节点&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=12;fillColor=#d5e8d4;" parent="1" vertex="1">
+        <mxCell id="BGBXXSMoJgdAzNNkScHR-175" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;机构&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;节点&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=12;fillColor=#d5e8d4;" parent="1" vertex="1">
           <mxGeometry x="476.56" y="791.6799999999998" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="BGBXXSMoJgdAzNNkScHR-176" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Database_General.svg;strokeColor=#b85450;verticalAlign=middle;fontFamily=宋体;fontColor=default;fillColor=#f8cecc;" parent="1" vertex="1">
