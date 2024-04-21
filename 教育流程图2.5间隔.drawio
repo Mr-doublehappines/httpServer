@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-21T04:20:15.670Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="ENcKtfoGfbo3rfyjLIXm" version="24.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-21T06:48:28.772Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="t02h3WWtQ8z4vjN2kA-9" version="24.2.7" type="github">
   <diagram name="第 1 页" id="jYvDmB9UrdElBcq9cQ24">
     <mxGraphModel dx="1195" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -215,7 +215,7 @@
             <mxPoint x="1020" y="680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZbWRhIcGq7qZfUtx-Eha-77" value="子令牌生成" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBorderColor=#b1534e;fontSize=16;fontFamily=宋体;fontColor=default;" parent="ZbWRhIcGq7qZfUtx-Eha-36" vertex="1" connectable="0">
+        <mxCell id="ZbWRhIcGq7qZfUtx-Eha-77" value="属性令牌集" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBorderColor=#b1534e;fontSize=16;fontFamily=宋体;fontColor=default;" parent="ZbWRhIcGq7qZfUtx-Eha-36" vertex="1" connectable="0">
           <mxGeometry x="0.0023" y="-2" relative="1" as="geometry">
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
