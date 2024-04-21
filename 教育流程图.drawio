@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-21T03:49:00.897Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="rE0BTV2R9rK5qqysXHYw" version="24.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-21T03:50:45.746Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="WJWNzhUDrUbHUXAgdr7i" version="24.2.7" type="github">
   <diagram name="第 1 页" id="jYvDmB9UrdElBcq9cQ24">
     <mxGraphModel dx="1195" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -86,7 +86,7 @@
         </mxCell>
         <mxCell id="ZbWRhIcGq7qZfUtx-Eha-42" value="属性权威证书" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBorderColor=#97D077;fontSize=16;fontFamily=宋体;fontColor=#000000;" vertex="1" connectable="0" parent="ZbWRhIcGq7qZfUtx-Eha-18">
           <mxGeometry x="0.0509" y="-1" relative="1" as="geometry">
-            <mxPoint x="-8" as="offset" />
+            <mxPoint x="-9" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZbWRhIcGq7qZfUtx-Eha-19" value="" style="endArrow=classic;html=1;rounded=0;labelBorderColor=default;fontSize=16;fontFamily=宋体;fontColor=#000000;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1">
@@ -97,7 +97,7 @@
         </mxCell>
         <mxCell id="ZbWRhIcGq7qZfUtx-Eha-43" value="用户属性证书" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBorderColor=#97D077;fontSize=16;fontFamily=宋体;fontColor=#000000;" vertex="1" connectable="0" parent="ZbWRhIcGq7qZfUtx-Eha-19">
           <mxGeometry x="0.6145" y="-1" relative="1" as="geometry">
-            <mxPoint x="2" as="offset" />
+            <mxPoint x="-52" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZbWRhIcGq7qZfUtx-Eha-20" value="" style="endArrow=none;html=1;rounded=0;fontSize=16;fontFamily=宋体;" edge="1" parent="1">
@@ -123,7 +123,7 @@
         </mxCell>
         <mxCell id="ZbWRhIcGq7qZfUtx-Eha-41" value="系统管理员证书" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBorderColor=#97D077;fontSize=16;fontFamily=宋体;fontColor=#000000;" vertex="1" connectable="0" parent="ZbWRhIcGq7qZfUtx-Eha-23">
           <mxGeometry x="-0.0006" relative="1" as="geometry">
-            <mxPoint x="-1" as="offset" />
+            <mxPoint x="60" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZbWRhIcGq7qZfUtx-Eha-25" value="" style="endArrow=classic;html=1;rounded=0;labelBorderColor=default;fontSize=16;fontFamily=宋体;fillColor=#dae8fc;strokeColor=#6c8ebf;fontColor=default;" edge="1" parent="1">
@@ -145,7 +145,7 @@
         </mxCell>
         <mxCell id="ZbWRhIcGq7qZfUtx-Eha-46" value="AA初始化" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBorderColor=#7EA6E0;fontSize=16;fontFamily=宋体;fontColor=default;" vertex="1" connectable="0" parent="ZbWRhIcGq7qZfUtx-Eha-26">
           <mxGeometry x="0.4219" y="-4" relative="1" as="geometry">
-            <mxPoint y="4" as="offset" />
+            <mxPoint x="51" y="3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZbWRhIcGq7qZfUtx-Eha-30" value="" style="endArrow=classic;html=1;rounded=0;labelBorderColor=#7EA6E0;fontSize=16;fontFamily=宋体;fontColor=default;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
@@ -156,7 +156,7 @@
         </mxCell>
         <mxCell id="ZbWRhIcGq7qZfUtx-Eha-47" value="属性子公钥" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBorderColor=#7EA6E0;fontSize=16;fontFamily=宋体;fontColor=default;" vertex="1" connectable="0" parent="ZbWRhIcGq7qZfUtx-Eha-30">
           <mxGeometry x="0.2184" y="-2" relative="1" as="geometry">
-            <mxPoint x="-72" y="-3" as="offset" />
+            <mxPoint x="-26" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZbWRhIcGq7qZfUtx-Eha-31" value="" style="endArrow=classic;html=1;rounded=0;labelBorderColor=default;fontSize=16;fontFamily=宋体;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=default;" edge="1" parent="1">
@@ -195,7 +195,7 @@
         </mxCell>
         <mxCell id="ZbWRhIcGq7qZfUtx-Eha-70" value="属性令牌请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBorderColor=#b1534e;fontSize=16;fontFamily=宋体;fontColor=default;" vertex="1" connectable="0" parent="ZbWRhIcGq7qZfUtx-Eha-34">
           <mxGeometry x="0.4179" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="65" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZbWRhIcGq7qZfUtx-Eha-35" value="" style="endArrow=classic;html=1;rounded=0;labelBorderColor=default;fontSize=16;fontFamily=宋体;fillColor=#f8cecc;strokeColor=#b85450;fontColor=default;" edge="1" parent="1">
@@ -206,7 +206,7 @@
         </mxCell>
         <mxCell id="ZbWRhIcGq7qZfUtx-Eha-71" value="属性子令牌集" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBorderColor=#b1534e;fontSize=16;fontFamily=宋体;fontColor=default;" vertex="1" connectable="0" parent="ZbWRhIcGq7qZfUtx-Eha-35">
           <mxGeometry x="-0.4234" relative="1" as="geometry">
-            <mxPoint x="-8" as="offset" />
+            <mxPoint x="51" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZbWRhIcGq7qZfUtx-Eha-36" value="" style="endArrow=classic;html=1;rounded=0;labelBorderColor=default;fontSize=16;fontFamily=宋体;fillColor=#f8cecc;strokeColor=#b85450;fontColor=default;" edge="1" parent="1">
@@ -294,7 +294,7 @@
           <mxGeometry x="369" y="482" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZbWRhIcGq7qZfUtx-Eha-69" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;令牌生成&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;labelBorderColor=none;fontSize=16;fontFamily=宋体;fontColor=#b1534e;" vertex="1" parent="1">
-          <mxGeometry x="375" y="601" width="90" height="30" as="geometry" />
+          <mxGeometry x="372" y="603" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZbWRhIcGq7qZfUtx-Eha-73" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;labelBorderColor=default;fontSize=16;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="1086" y="600" width="11" height="79" as="geometry" />
