@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-21T03:51:49.898Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="5ex_bHYEH-wD1f_TdhHN" version="24.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-21T03:53:59.207Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="agACfO7HTa3Q-oilY7j-" version="24.2.7" type="github">
   <diagram name="第 1 页" id="jYvDmB9UrdElBcq9cQ24">
     <mxGraphModel dx="1195" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -256,9 +256,6 @@
         <mxCell id="ZbWRhIcGq7qZfUtx-Eha-49" value="&lt;b&gt;密钥协商&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBorderColor=none;fontSize=16;fontFamily=宋体;fontColor=#7EA6E0;" vertex="1" parent="1">
           <mxGeometry x="369" y="360" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZbWRhIcGq7qZfUtx-Eha-51" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;size=0.5;rotation=-180;labelBorderColor=#7EA6E0;fontSize=16;fontFamily=宋体;fillColor=#dae8fc;strokeColor=#6c8ebf;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="575" y="440" width="20" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="ZbWRhIcGq7qZfUtx-Eha-52" value="" style="endArrow=classic;html=1;rounded=0;labelBorderColor=#7EA6E0;fontSize=16;fontFamily=宋体;fontColor=default;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="600" y="480" as="sourcePoint" />
@@ -270,8 +267,8 @@
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZbWRhIcGq7qZfUtx-Eha-54" value="&lt;font color=&quot;#7ea6e0&quot;&gt;&lt;b&gt;全局公钥生成&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBorderColor=none;fontSize=16;fontFamily=宋体;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="467" y="446" width="130" height="30" as="geometry" />
+        <mxCell id="ZbWRhIcGq7qZfUtx-Eha-54" value="&lt;font size=&quot;1&quot; color=&quot;#7ea6e0&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;全局公钥&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;1&quot; color=&quot;#7ea6e0&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;生成&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBorderColor=none;fontSize=16;fontFamily=宋体;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="495" y="435" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZbWRhIcGq7qZfUtx-Eha-56" value="&lt;b&gt;可选&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBorderColor=none;fontSize=16;fontFamily=宋体;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="669" y="506" width="60" height="30" as="geometry" />
@@ -343,6 +340,15 @@
             <mxPoint x="480" y="640" as="targetPoint" />
             <Array as="points">
               <mxPoint x="440" y="620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZbWRhIcGq7qZfUtx-Eha-97" value="" style="endArrow=classic;html=1;rounded=0;curved=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="440" as="sourcePoint" />
+            <mxPoint x="600" y="480" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="560" y="460" />
             </Array>
           </mxGeometry>
         </mxCell>
